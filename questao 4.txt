@@ -1,0 +1,8 @@
+4- Atualmente, a informática chegou a um determinado nível de crescimento, que no mercado de trabalho, está cada vez mais difícil encontrar empregos, nos quais não seja necessário o contato com equipamentos, máquinas e softwares. 
+Por conta disso profissionais da área de informática, ou até mesmo com algum nível de conhecimento nessa área, são de grande importância. 
+Alguns exemplos de trabalhos desse tipo são:
+Designer: ele trabalha para melhorar o aspecto de um site, sua acessibilidade e também a ordem e seu aspecto estético para atrair novos usuários.
+Programador: Criam os aplicativos de uma página na web e resolvem os problemas derivados de seu funcionamento.
+Técnico de Suporte: Instala, configura e se encarrega de manter os equipamentos informáticos da empresa.
+Administrador de bancos de dados: Responsável por manter e gerenciar bancos de dados, além de construir os programas de busca para a recuperação de dados na internet e em sistemas digitais.
+Analista de segurança informática: Desenvolve técnicas para que os riscos de ataque, invasões e roubos de informações sejam minimizados. Além de realizar publicações da segurança entre os funcionários, treina as esquipes responsáveis pelos sistemas e cria campanhas de conscientização junto a usuários e colaboradores. 
