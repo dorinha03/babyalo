@@ -1,8 +1,8 @@
-4- Atualmente, a inform·tica chegou a um determinado nÌvel de crescimento, que no mercado de trabalho, est· cada vez mais difÌcil encontrar empregos, nos quais n„o seja necess·rio o contato com equipamentos, m·quinas e softwares. 
-Por conta disso profissionais da ·rea de inform·tica, ou atÈ mesmo com algum nÌvel de conhecimento nessa ·rea, s„o de grande import‚ncia. 
-Alguns exemplos de trabalhos desse tipo s„o:
-Designer: ele trabalha para melhorar o aspecto de um site, sua acessibilidade e tambÈm a ordem e seu aspecto estÈtico para atrair novos usu·rios.
-Programador: Criam os aplicativos de uma p·gina na web e resolvem os problemas derivados de seu funcionamento.
-TÈcnico de Suporte: Instala, configura e se encarrega de manter os equipamentos inform·ticos da empresa.
-Administrador de bancos de dados: Respons·vel por manter e gerenciar bancos de dados, alÈm de construir os programas de busca para a recuperaÁ„o de dados na internet e em sistemas digitais.
-Analista de seguranÁa inform·tica: Desenvolve tÈcnicas para que os riscos de ataque, invasıes e roubos de informaÁıes sejam minimizados. AlÈm de realizar publicaÁıes da seguranÁa entre os funcion·rios, treina as esquipes respons·veis pelos sistemas e cria campanhas de conscientizaÁ„o junto a usu·rios e colaboradores. 
+Resposta 04- Atualmente, a inform√°tica chegou a um determinado n√≠vel de crescimento, que no mercado de trabalho est√° cada vez mais dif√≠cil encontrar empregos nos quais n√£o seja necess√°rio o contato com equipamentos, m√°quinas e softwares. 
+Por conta disso profissionais da √°rea de inform√°tica, ou at√© mesmo com algum n√≠vel de conhecimento nessa √°rea, s√£o de grande import√¢ncia. 
+Alguns exemplos de trabalhos desse tipo s√£o:
+Designer: ele trabalha para melhorar o aspecto de um site, sua acessibilidade e tamb√©m a ordem e seu aspecto est√©tico para atrair novos usu√°rios.
+Programador: Criam os aplicativos de uma p√°gina na web e resolvem os problemas derivados de seu funcionamento.
+T√©cnico de Suporte: Instala, configura e se encarrega de manter os equipamentos inform√°ticos da empresa.
+Administrador de bancos de dados: Respons√°vel por manter e gerenciar bancos de dados, al√©m de construir os programas de busca para a recupera√ß√£o de dados na internet e em sistemas digitais.
+Analista de seguran√ßa inform√°tica: Desenvolve t√©cnicas para que os riscos de ataque, invas√µes e roubos de informa√ß√µes sejam minimizados. Al√©m de realizar publica√ß√µes da seguran√ßa entre os funcion√°rios, treina as esquipes respons√°veis pelos sistemas e cria campanhas de conscientiza√ß√£o junto a usu√°rios e colaboradores. 
